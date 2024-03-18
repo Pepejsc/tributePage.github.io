@@ -1,4 +1,4 @@
-# # Página web de tributo a Rick Sánchez
+## Página web de tributo a Rick Sánchez
 
 ¡Bienvenido a la página web de tributo a Rick Sánchez, el carismático y excéntrico personaje de la famosa serie de televisión "Rick and Morty"! Esta página está dedicada a honrar la inigualable personalidad, inteligencia y aventuras de Rick, el genio científico intergaláctico.
 
@@ -27,3 +27,5 @@ En nuestra página de tributo, encontrarás:
 Para cualquier pregunta, comentario o colaboración, no dudes en ponerte en contacto con nosotros. Estamos aquí para ayudar y mejorar esta página en conjunto.
 
 ¡Gracias por visitar nuestra página de tributo a Rick Sánchez! ¡Esperamos que disfrutes explorando el fascinante mundo de este genio científico disfuncional pero encantador!
+
+Link Pagina: https://pepejsc.github.io/tributePage.github.io/
